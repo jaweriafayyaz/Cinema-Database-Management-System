@@ -47,6 +47,8 @@ A professional database management project built to simulate real-world operatio
 
 ---
 
-## **View Full Report:** 
-📥 [Click here to download the full CinemaDB project report](./CinemaDB_Project_Report.pdf)
+📥## 📄 View Report
+
+[📥 Click here to view/download the Cinema Database Project Report (PDF)](CinemaDB_Project_Report.pdf)
+
 
